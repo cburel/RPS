@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\code\Project1\main.cpp(64,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\code\Project1\main.cpp(95): warning C4715: 'getResult': not all control paths return a value
+  Project1.vcxproj -> D:\code\Project1\x64\Debug\Project1.exe
